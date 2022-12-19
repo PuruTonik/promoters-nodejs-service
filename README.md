@@ -6,4 +6,4 @@ npm install --save aws-sdk
 npm install --save request
 npm install --save jwk-to-pem
 npm install --save jsonwebtoken
-npm install --save node-fetch
+npm install --save node-fetch@2.6.1
